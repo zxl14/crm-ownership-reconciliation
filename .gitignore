@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+data/crm/
+data/audit/
+data/proposals/
+data/reconciliation/
+data/review/
+data/cache/
+*.tmp

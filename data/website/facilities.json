@@ -1,0 +1,499 @@
+{
+  "directory_pages": 3,
+  "directory_reported_count": 34,
+  "homepage_reported_count": 35,
+  "facilities": [
+    {
+      "name": "Bellhaven of Maplewood",
+      "street": "210 Orchard Lane",
+      "city": "Maplewood",
+      "state": "OH",
+      "zip": "44280",
+      "full_address": "210 Orchard Lane, Maplewood, OH 44280",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-maplewood",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of New Carlisle",
+      "street": "875 Elm Street",
+      "city": "New Carlisle",
+      "state": "OH",
+      "zip": "45344",
+      "full_address": "875 Elm Street, New Carlisle, OH 45344",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-new-carlisle",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Wooster",
+      "street": "2301 Cleveland Road",
+      "city": "Wooster",
+      "state": "OH",
+      "zip": "44691",
+      "full_address": "2301 Cleveland Road, Wooster, OH 44691",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-wooster",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven Terrace of Akron",
+      "street": "55 Ridgewood Avenue",
+      "city": "Akron",
+      "state": "OH",
+      "zip": "44313",
+      "full_address": "55 Ridgewood Avenue, Akron, OH 44313",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-terrace-of-akron",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Saline",
+      "street": "980 W Michigan Ave",
+      "city": "Saline",
+      "state": "MI",
+      "zip": "48176",
+      "full_address": "980 W Michigan Ave, Saline, MI 48176",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-saline",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Goshen",
+      "street": "1610 College Ave",
+      "city": "Goshen",
+      "state": "IN",
+      "zip": "46526",
+      "full_address": "1610 College Ave, Goshen, IN 46526",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-goshen",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Meadville",
+      "street": "341 Chestnut St",
+      "city": "Meadville",
+      "state": "PA",
+      "zip": "16335",
+      "full_address": "341 Chestnut St, Meadville, PA 16335",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-meadville",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Defiance",
+      "street": "700 Carpenter Rd",
+      "city": "Defiance",
+      "state": "OH",
+      "zip": "43512",
+      "full_address": "700 Carpenter Rd, Defiance, OH 43512",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-defiance",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven Woods of Toledo",
+      "street": "4850 NW Sylvania Ave",
+      "city": "Toledo",
+      "state": "OH",
+      "zip": "43623",
+      "full_address": "4850 NW Sylvania Ave, Toledo, OH 43623",
+      "care_offerings": [
+        "Memory Support"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-woods-of-toledo",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Marion",
+      "street": "199 Barks Rd W",
+      "city": "Marion",
+      "state": "OH",
+      "zip": "43302",
+      "full_address": "199 Barks Rd W, Marion, OH 43302",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marion",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Kalamazoo",
+      "street": "3222 Gull Rd",
+      "city": "Kalamazoo",
+      "state": "MI",
+      "zip": "49048",
+      "full_address": "3222 Gull Rd, Kalamazoo, MI 49048",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kalamazoo",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven Court of Altoona",
+      "street": "1125 Logan Blvd",
+      "city": "Altoona",
+      "state": "PA",
+      "zip": "16602",
+      "full_address": "1125 Logan Blvd, Altoona, PA 16602",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-court-of-altoona",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven Rehabilitation & Nursing of Grove City",
+      "street": "3985 Broadway",
+      "city": "Grove City",
+      "state": "OH",
+      "zip": "43123",
+      "full_address": "3985 Broadway, Grove City, OH 43123",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-rehabilitation-nursing-of-grove-city",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven at Sycamore Ridge",
+      "street": "7420 Sycamore Ridge Dr",
+      "city": "Miamisburg",
+      "state": "OH",
+      "zip": "45342",
+      "full_address": "7420 Sycamore Ridge Dr, Miamisburg, OH 45342",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-sycamore-ridge",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "The Arbors at Bellhaven - Dayton",
+      "street": "2210 Salem Ave",
+      "city": "Dayton",
+      "state": "OH",
+      "zip": "45406",
+      "full_address": "2210 Salem Ave, Dayton, OH 45406",
+      "care_offerings": [
+        "Memory Support"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/the-arbors-at-bellhaven-dayton",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven Healthcare Centre of Ashland",
+      "street": "1631 Claremont Ave",
+      "city": "Ashland",
+      "state": "OH",
+      "zip": "44805",
+      "full_address": "1631 Claremont Ave, Ashland, OH 44805",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-healthcare-centre-of-ashland",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Port Clinton",
+      "street": "1420 Harbor Point Dr",
+      "city": "Port Clinton",
+      "state": "OH",
+      "zip": "43452",
+      "full_address": "1420 Harbor Point Dr, Port Clinton, OH 43452",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-port-clinton",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven Shores of Erie",
+      "street": "4930 W Lake Rd",
+      "city": "Erie",
+      "state": "PA",
+      "zip": "16505",
+      "full_address": "4930 W Lake Rd, Erie, PA 16505",
+      "care_offerings": [
+        "Assisted Living",
+        "Memory Support"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-shores-of-erie",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Kettering",
+      "street": "3313 Wilmington Pike",
+      "city": "Kettering",
+      "state": "OH",
+      "zip": "45429",
+      "full_address": "3313 Wilmington Pike, Kettering, OH 45429",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kettering",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven Gardens of Monroe",
+      "street": "750 Stewart Rd",
+      "city": "Monroe",
+      "state": "MI",
+      "zip": "48162",
+      "full_address": "750 Stewart Rd, Monroe, MI 48162",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-gardens-of-monroe",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Tiffin",
+      "street": "45 St Lawrence Dr",
+      "city": "Tiffin",
+      "state": "OH",
+      "zip": "44883",
+      "full_address": "45 St Lawrence Dr, Tiffin, OH 44883",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-tiffin",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Marietta",
+      "street": "805 Colegate Dr",
+      "city": "Marietta",
+      "state": "OH",
+      "zip": "45750",
+      "full_address": "805 Colegate Dr, Marietta, OH 45750",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marietta",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven Crossings of Lima",
+      "street": "3115 N Cole St",
+      "city": "Lima",
+      "state": "OH",
+      "zip": "45801",
+      "full_address": "3115 N Cole St, Lima, OH 45801",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-crossings-of-lima",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Zanesville",
+      "street": "2680 Maple Ave",
+      "city": "Zanesville",
+      "state": "OH",
+      "zip": "43701",
+      "full_address": "2680 Maple Ave, Zanesville, OH 43701",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-zanesville",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Chagrin Falls",
+      "street": "150 River St",
+      "city": "Chagrin Falls",
+      "state": "OH",
+      "zip": "44022",
+      "full_address": "150 River St, Chagrin Falls, OH 44022",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chagrin-falls",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven Willow Creek",
+      "street": "8060 Willow Creek Ln",
+      "city": "Portage",
+      "state": "MI",
+      "zip": "49024",
+      "full_address": "8060 Willow Creek Ln, Portage, MI 49024",
+      "care_offerings": [
+        "Memory Support"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-willow-creek",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Ashtabula",
+      "street": "3156 W Prospect Rd",
+      "city": "Ashtabula",
+      "state": "OH",
+      "zip": "44004",
+      "full_address": "3156 W Prospect Rd, Ashtabula, OH 44004",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-ashtabula",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Owosso",
+      "street": "1120 W Main St",
+      "city": "Owosso",
+      "state": "MI",
+      "zip": "48867",
+      "full_address": "1120 W Main St, Owosso, MI 48867",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-owosso",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Portsmouth",
+      "street": "2222 Gallia St",
+      "city": "Portsmouth",
+      "state": "OH",
+      "zip": "45662",
+      "full_address": "2222 Gallia St, Portsmouth, OH 45662",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-portsmouth",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Batavia",
+      "street": "2000 Hospital Dr",
+      "city": "Batavia",
+      "state": "OH",
+      "zip": "45103",
+      "full_address": "2000 Hospital Dr, Batavia, OH 45103",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-batavia",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven at Union Square",
+      "street": "118 Union Square Dr",
+      "city": "New Albany",
+      "state": "OH",
+      "zip": "43054",
+      "full_address": "118 Union Square Dr, New Albany, OH 43054",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-union-square",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Carlisle",
+      "street": "640 Walnut Bottom Rd",
+      "city": "Carlisle",
+      "state": "PA",
+      "zip": "17015",
+      "full_address": "640 Walnut Bottom Rd, Carlisle, PA 17015",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-carlisle",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Amberly Manor",
+      "street": "4390 Darrow Rd",
+      "city": "Hudson",
+      "state": "OH",
+      "zip": "44236",
+      "full_address": "4390 Darrow Rd, Hudson, OH 44236",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/amberly-manor",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven of Chesterton",
+      "street": "1250 NW Franklin Street",
+      "city": "Chesterton",
+      "state": "IN",
+      "zip": "46304",
+      "full_address": "1250 NW Franklin Street, Chesterton, IN 46304",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chesterton",
+      "listed_in_directory": true,
+      "address_parsed": true
+    },
+    {
+      "name": "Bellhaven Meadows of Findlay",
+      "street": "1800 N Blanchard St",
+      "city": "Findlay",
+      "state": "OH",
+      "zip": "45840",
+      "full_address": "1800 N Blanchard St, Findlay, OH 45840",
+      "care_offerings": [
+        "Assisted Living",
+        "Memory Support"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-meadows-of-findlay",
+      "listed_in_directory": false,
+      "address_parsed": true
+    }
+  ]
+}
